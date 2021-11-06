@@ -1,7 +1,7 @@
 // PROBLEM :-
 // https://leetcode.com/problems/merge-sorted-array/
 
-LEETCODE | EASY | ARRAY - TWO POINTERS
+// LEETCODE | EASY | ARRAY - TWO POINTERS
 
 // Solution :- T.C: O(N + M) and S.C: O(1)
 

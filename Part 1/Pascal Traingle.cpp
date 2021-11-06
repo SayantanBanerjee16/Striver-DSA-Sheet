@@ -1,7 +1,7 @@
 // PROBLEM :-
 // https://leetcode.com/problems/pascals-triangle/
 
-LEETCODE | EASY | MATHS
+// LEETCODE | EASY | MATHS
 
 //  Solution 1 :- Greedily do what it refers to do. 
 //  Use previous row to formulate the current row.

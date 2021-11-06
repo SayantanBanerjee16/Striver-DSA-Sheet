@@ -1,7 +1,7 @@
 // PROBLEM :-
-https://leetcode.com/problems/rotate-image/
+// https://leetcode.com/problems/rotate-image/
 
-LEETCODE | MEDIUM | MATRIX GEOMETRY
+// LEETCODE | MEDIUM | MATRIX GEOMETRY
 
 
 // Solution 1 : T.C. O(N^2) S.C O(N^2) (Brute)

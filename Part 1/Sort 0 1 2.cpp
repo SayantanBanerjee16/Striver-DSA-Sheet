@@ -1,7 +1,7 @@
 // PROBLEM LINK :-
 // https://leetcode.com/problems/sort-colors/
 
-LEETCODE | MEDIUM | ARRAY - POINTERS
+// LEETCODE | MEDIUM | ARRAY - POINTERS
 
 // Solution 1 :- Sort it simply. T.C O(NlogN) S.C O(1)
 // Solution 2 :- Use Count Sort Technique. T.C O(N) S.C O(1) -> 2 pass

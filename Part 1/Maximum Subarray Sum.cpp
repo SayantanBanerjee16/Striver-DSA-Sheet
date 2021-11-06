@@ -1,7 +1,7 @@
 // Problem :-
 // https://leetcode.com/problems/maximum-subarray/
 
-LEETCODE | EASY | DP / DIVIDE nd CONQUER
+// LEETCODE | EASY | DP , DIVIDE & CONQUER
 
 
 // Solution 1 :-
