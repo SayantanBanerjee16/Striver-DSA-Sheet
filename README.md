@@ -1,6 +1,6 @@
 # Striver DSA Sheet
 
-[DSA Sheet Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+[Striver DSA Sheet Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
 This Repository is based on Striver DSA Sheet problems solved by me (sometimes with help from different resources :p) for Interview preparation. 
 All solutions are coded in C++ language.
@@ -21,3 +21,10 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Merge Overlapping Intervals](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%202/Merge%20Intervals.cpp)
     * [Merge Two Sorted Arrays Inplace](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%202/Merge%20Sorted%20Array.cpp)
     * [Find the Duplicate Number](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%202/Find%20The%20Duplicate%20Number.cpp)
+
+* Part 3
+    * [Search in a 2D Matrix](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%203/Search%20a%202D%20matrix.cpp)
+    * [Power N times X](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%203/Power%20N%20times%20X.cpp)
+    * [Majority Element Greater than N By 2](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%203/Majority%20Element%20Greater%20than%20N%20by%202.cpp)
+    * [Majority Element Greater than N By 3](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%203/Majority%20Element%20Greater%20than%20N%20by%203.cpp)
+    * [Unique Paths in a Grid with obstacles](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%203/Unique%20Paths.cpp)
