@@ -15,6 +15,13 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Next Permutation](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Next%20Permutation.cpp)
     * [Maximum Subarray Sum](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Maximum%20Subarray%20Sum.cpp)
     * [Sort 0 1 2](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
+    * Best Time to Buy and Sell
+	* [Atmost One Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
+	* [Any Number of Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
+	* [Any Number of Transaction with Transaction Fee](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
+	* [Any Number of Transaction with Cooldown](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
+	* [Atmost 2 Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
+	* [Atmost K Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
 
 * Part 2
     * [Rotate Matrix](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%202/Rotate%20Matrix.cpp)
