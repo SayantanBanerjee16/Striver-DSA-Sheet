@@ -9,19 +9,20 @@ My LinkedIn account -> [https://www.linkedin.com/in/sayantan-banerjee-iiitgwalio
 
 My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.com/tonystark_3000/)
 
+* Part 0
+    * [Best Time to Buy and Sell - Atmost One Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%200/Best%20Time%20to%20Buy%20and%20Sell%20-%20One%20Transaction.cpp)
+    * [Best Time to Buy and Sell - Any Number of Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%200/Best%20Time%20to%20Buy%20and%20Sell%20-%20Any%20Amt%20of%20Transaction.cpp)
+    * [Best Time to Buy and Sell - Any Number of Transaction with Transaction Fee](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%200/Best%20Time%20to%20buy%20and%20Sell%20-%20Any%20Amt%20of%20Transaction%20-%20With%20Transaction%20Fee.cpp)
+    * [Best Time to Buy and Sell - Any Number of Transaction with Cooldown](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%200/Best%20Time%20to%20Buy%20and%20Sell%20-%20Any%20Amt%20of%20Transaction%20-%20With%20Cooldown.cpp)
+    * [Best Time to Buy and Sell - Atmost 2 Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%200/Best%20Time%20To%20Buy%20and%20Sell%20-%20Two%20Transaction%20atmost.cpp)
+    * [Best Time to Buy and Sell - Atmost K Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%200/Best%20Time%20To%20Buy%20and%20Sell%20-%20K%20Transaction%20atmost.cpp)
+
 * Part 1
     * [Set Matrix Zeroes](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Set%20Matrix%20Zeroes.cpp)
     * [Pascal Traingle](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Pascal%20Traingle.cpp)
     * [Next Permutation](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Next%20Permutation.cpp)
     * [Maximum Subarray Sum](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Maximum%20Subarray%20Sum.cpp)
     * [Sort 0 1 2](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
-    * Best Time to Buy and Sell
-	* [Atmost One Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
-	* [Any Number of Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
-	* [Any Number of Transaction with Transaction Fee](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
-	* [Any Number of Transaction with Cooldown](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
-	* [Atmost 2 Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
-	* [Atmost K Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%201/Sort%200%201%202.cpp)
 
 * Part 2
     * [Rotate Matrix](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%202/Rotate%20Matrix.cpp)
