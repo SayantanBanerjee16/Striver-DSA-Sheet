@@ -36,3 +36,12 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Majority Element Greater than N By 2](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%203/Majority%20Element%20Greater%20than%20N%20by%202.cpp)
     * [Majority Element Greater than N By 3](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%203/Majority%20Element%20Greater%20than%20N%20by%203.cpp)
     * [Unique Paths in a Grid with obstacles](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%203/Unique%20Paths.cpp)
+
+* Part 4
+    * [Two Sum](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Two%20Sum.cpp)
+    * [Three Sum](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Three%20Sum.cpp)
+    * [Four Sum](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Four%20Sum.cpp)
+    * [Longest Consecutive Sequence](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Longest%20Consecutive%20Sequence.cpp)
+    * [Largest Subarray with Sum Zero](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Largest%20Subarray%20with%20sum%20zero.cpp)
+    * [Count Number of subarray with XOR K](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Subarray%20With%20Given%20XOR.cpp)
+    * [Longest Substring window without repeat](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Longest%20Substring%20Without%20Repeating%20Characters.cpp)
