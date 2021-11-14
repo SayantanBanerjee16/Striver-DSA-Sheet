@@ -45,3 +45,12 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Largest Subarray with Sum Zero](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Largest%20Subarray%20with%20sum%20zero.cpp)
     * [Count Number of subarray with XOR K](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Subarray%20With%20Given%20XOR.cpp)
     * [Longest Substring window without repeat](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%204/Longest%20Substring%20Without%20Repeating%20Characters.cpp)
+
+* Part 5 (Linked List)
+    * [Reverse a Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Reverse%20a%20Linked%20List.cpp)
+    * [Middle of a Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Middle%20of%20Linked%20List.cpp)
+    * [Merge Two Sorted Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Merge%20Two%20Sorted%20Linked%20List.cpp)
+    * [Remove Nth node from back of Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Remove%20Nth%20node%20from%20end%20of%20Linked%20List.cpp)
+    * [Add Two Numbers represented as Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Add%20Two%20Numbers%20Represented%20as%20Linked%20List.cpp)
+    * [Delete given Node](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Delete%20Given%20Node%20in%20a%20Linked%20List.cpp)
+    * [Remove Duplicates From Sorted List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Remove%20Duplicates%20From%20Sorted%20List.cpp)
