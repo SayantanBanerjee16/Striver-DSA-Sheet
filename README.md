@@ -54,3 +54,10 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Add Two Numbers represented as Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Add%20Two%20Numbers%20Represented%20as%20Linked%20List.cpp)
     * [Delete given Node](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Delete%20Given%20Node%20in%20a%20Linked%20List.cpp)
     * [Remove Duplicates From Sorted List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%205/Remove%20Duplicates%20From%20Sorted%20List.cpp)
+
+* Part 6 (Linked List)
+    * [Intersection of Two Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%206/Intersection%20of%20Two%20Linked%20List.cpp)
+    * [Linked List Cycle](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%206/Linked%20List%20Cycle.cpp)
+    * [Starting point of a Linked List Cycle](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%206/Starting%20Point%20of%20Linked%20List%20Cycle.cpp)
+    * [Palindromic Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%206/Palindromic%20Linked%20List.cpp)
+    * [Rotate List By K Times](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%206/Rotate%20List%20By%20K%20Times.cpp)
