@@ -61,3 +61,8 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Starting point of a Linked List Cycle](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%206/Starting%20Point%20of%20Linked%20List%20Cycle.cpp)
     * [Palindromic Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%206/Palindromic%20Linked%20List.cpp)
     * [Rotate List By K Times](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%206/Rotate%20List%20By%20K%20Times.cpp)
+
+* Part 7
+    * [Trapping Rain Water](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%207/Trapping%20Rain%20Water.cpp)
+    * [Max Consecutive Ones](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%207/Max%20Consecutive%20One.cpp)
+    * [Remove Duplicates From Sorted Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%207/Remove%20Duplicates%20From%20Sorted%20Array.cpp)
