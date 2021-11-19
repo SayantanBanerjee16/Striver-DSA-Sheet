@@ -66,3 +66,12 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Trapping Rain Water](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%207/Trapping%20Rain%20Water.cpp)
     * [Max Consecutive Ones](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%207/Max%20Consecutive%20One.cpp)
     * [Remove Duplicates From Sorted Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%207/Remove%20Duplicates%20From%20Sorted%20Array.cpp)
+
+* Part 8
+    * [Mininum Number Of Coin Change](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/Minimum%20Number%20Of%20Coins%20Change.cpp)
+    * [Coin Combination - All permutation](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/Coin%20Combination%20-%20All%20permutation.cpp)
+    * [Coin Combination - Unique permutation](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/Coin%20Combination%20-%20Unique%20permuation.cpp)
+    * [Fractional Knapsack](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/Fractional%20Knapsack.cpp)
+    * [Job Sequencing](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/Job%20Sequencing.cpp)
+    * [Maximum Unoverlapped Intervals (N Meetings in 1 Room)](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/N%20meetings%20in%20one%20room.cpp)
+    * [Maximum Overlapping Intervals](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/Maximum%20Overlapping%20Intervals.cpp)
