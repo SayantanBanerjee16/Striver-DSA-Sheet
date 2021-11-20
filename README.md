@@ -75,3 +75,10 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Job Sequencing](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/Job%20Sequencing.cpp)
     * [Maximum Unoverlapped Intervals (N Meetings in 1 Room)](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/N%20meetings%20in%20one%20room.cpp)
     * [Maximum Overlapping Intervals](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%208/Maximum%20Overlapping%20Intervals.cpp)
+
+* Part 9 (Recursion / Backtracking)
+    * [Subset Sums](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%209/Subset%20Sums.cpp)
+    * [Distinct Subsets](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%209/Distinct%20Subsets.cpp)
+    * [Combination Sum With Unique Values in Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%209/Combination%20Sum%20with%20Unique%20Values%20in%20Array.cpp)
+    * [Combination Sum With Non-Unique Values in Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%209/Combination%20Sum%20With%20Non-Unique%20Values%20in%20Array.cpp)
+    * [Palindromic Partitioning](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%209/Palindromic%20Partitioning.cpp)
