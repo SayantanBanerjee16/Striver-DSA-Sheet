@@ -82,3 +82,10 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Combination Sum With Unique Values in Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%209/Combination%20Sum%20with%20Unique%20Values%20in%20Array.cpp)
     * [Combination Sum With Non-Unique Values in Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%209/Combination%20Sum%20With%20Non-Unique%20Values%20in%20Array.cpp)
     * [Palindromic Partitioning](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%209/Palindromic%20Partitioning.cpp)
+
+* Part 10 (Recursion / Backtracking)
+    * [Permutation with All Unique Values in Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/Permutations%20with%20All%20Unique%20values.cpp)
+    * [Permutation with Duplicated Values in Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/Permutations%20with%20Duplicated%20values.cpp)
+    * [N Queens](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/N%20Queens.cpp)
+    * [Print all paths from top-left position to bottom-right position in a matrix](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/Print%20all%20paths%20from%20topleft%20cell%20to%20bottomdown%20cell%20in%20a%20matrix.cpp)
+    * [Word Break](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/Word%20Break.cpp)
