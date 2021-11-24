@@ -89,3 +89,10 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [N Queens](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/N%20Queens.cpp)
     * [Print all paths from top-left position to bottom-right position in a matrix](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/Print%20all%20paths%20from%20topleft%20cell%20to%20bottomdown%20cell%20in%20a%20matrix.cpp)
     * [Word Break](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/Word%20Break.cpp)
+
+* Part 12 (BITS)
+    * [Is Number Power Of Two](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/Is%20Power%20Of%20Two.cpp)
+    * [Counting Bits](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/Counting%20Bits.cpp)
+    * [Power Set](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/Power%20Set.cpp)
+    * [MSB of a number in O(1)](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/MSB%20in%20O(1).cpp)
+    * [XOR of all numbers from 1 to N in O(1)](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/XOR%20of%20all%20numbers%20from%201%20to%20N%20in%20O(1).cpp)
