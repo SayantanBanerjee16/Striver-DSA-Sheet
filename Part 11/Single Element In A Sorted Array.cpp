@@ -8,8 +8,8 @@
 // Solution 2 :- T.C. O(logN) S.C. O(1)
 
 // observe a pattern 
-// before the single element,
-// all the same pairs, first element is in EVEN index and second element is in ODD index
+// all the same pairs,
+// before the single element, first element is in EVEN index and second element is in ODD index
 // after             , first element is in ODD index and second element is in EVEN index
 
 // so simulate a B.S. over the whole array

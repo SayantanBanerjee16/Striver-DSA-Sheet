@@ -12,7 +12,7 @@
 // 		is lesser than MEDIAN'th element, B.S. on the right hand search space.
 
 
-int countOfElementsLessThanOrEqualToValueInASortedColumn(vector<int> &A, int M, int value){
+int countOfElementsLessThanOrEqualToValueInASortedRow(vector<int> &A, int M, int value){
     int low = 0;
     int high = M;
     int ans = M;
@@ -38,7 +38,7 @@ int countOfElementsLessThanOrEqualToValueInMatrix(vector<vector<int> > &A, int v
     int cnt = 0;
 
     for(int i = 0 ; i < N ; i++){
-        cnt += countOfElementsLessThanOrEqualToValueInASortedColumn(A[i], M, value);
+        cnt += countOfElementsLessThanOrEqualToValueInASortedRow(A[i], M, value);
     }
 
     return cnt;
