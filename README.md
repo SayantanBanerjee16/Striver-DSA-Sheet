@@ -90,6 +90,14 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Print all paths from top-left position to bottom-right position in a matrix](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/Print%20all%20paths%20from%20topleft%20cell%20to%20bottomdown%20cell%20in%20a%20matrix.cpp)
     * [Word Break](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2010/Word%20Break.cpp)
 
+* Part 11 (Binary Search)
+    * [Nth Root Of a Number M upto D decimal Places](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2011/Nth%20root%20of%20a%20number%20M%20upto%20D%20decimal%20places.cpp)
+    * [Matrix Median](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2011/Matrix%20Median.cpp)
+    * [Median of Two Sorted Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2011/Median%20of%20a%202%20Sorted%20Arrays.cpp)
+    * [Search in a Sorted Matrix](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2011/Search%20in%20a%20Sorted%20Matrix.cpp)
+    * [Single Element in a Sorted Array](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2011/Single%20Element%20In%20A%20Sorted%20Array.cpp)
+    * [Allocate Minimum Number of Pages](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2011/Allocate%20Minimum%20Number%20Of%20Pages.cpp)
+
 * Part 12 (BITS)
     * [Is Number Power Of Two](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/Is%20Power%20Of%20Two.cpp)
     * [Counting Bits](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/Counting%20Bits.cpp)
