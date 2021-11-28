@@ -104,3 +104,10 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Power Set](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/Power%20Set.cpp)
     * [MSB of a number in O(1)](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/MSB%20in%20O(1).cpp)
     * [XOR of all numbers from 1 to N in O(1)](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2012/XOR%20of%20all%20numbers%20from%201%20to%20N%20in%20O(1).cpp)
+
+* Part 13 (Stack / Queue)
+    * [Implement Stack Using Queue](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2013/Implement%20Stack%20Using%20Queue.cpp)
+    * [Implement Queue Using Stack](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2013/Implement%20Queue%20Using%20Stack.cpp)
+    * [Valid Parantheses](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2013/Valid%20Parantheses.cpp)
+    * [Next Greater Element Part 1](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2013/Next%20Greater%20Element%20Part%201.cpp)
+    * [Next Greater Element Part 2](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2013/Next%20Greater%20Element%20Part%202.cpp)
