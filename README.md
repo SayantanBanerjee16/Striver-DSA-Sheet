@@ -111,3 +111,11 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Valid Parantheses](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2013/Valid%20Parantheses.cpp)
     * [Next Greater Element Part 1](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2013/Next%20Greater%20Element%20Part%201.cpp)
     * [Next Greater Element Part 2](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2013/Next%20Greater%20Element%20Part%202.cpp)
+
+
+* Part 14
+    * [Minimum Stack](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Min%20Stack.cpp)
+    * [Nearest Smallest Element](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Nearest%20Smaller%20Element.cpp)
+    * [Online Stock Span](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Online%20Stock%20Span.cpp)
+    * [Sliding Window Maximum](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Sliding%20Window%20Maximum.cpp)
+    * [Rotten Oranges](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Rotting%20Oranges.cpp)
