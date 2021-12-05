@@ -119,3 +119,5 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Online Stock Span](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Online%20Stock%20Span.cpp)
     * [Sliding Window Maximum](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Sliding%20Window%20Maximum.cpp)
     * [Rotten Oranges](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Rotting%20Oranges.cpp)
+    * [LRU - Least Recently Used](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Least%20Recently%20Used%20(LRU).cpp)
+    * [LFU - Least Frequently Used](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2014/Least%20Frequently%20Used%20(LFU).cpp)
