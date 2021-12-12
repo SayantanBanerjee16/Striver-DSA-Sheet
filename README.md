@@ -128,3 +128,8 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [String To Integer (ATOI))](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2015/String%20To%20Integer.cpp)
     * [Roman To Integer](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2015/Roman%20To%20Integer.cpp)
     * [Integer To Roman](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2015/Integer%20To%20Roman.cpp)
+
+* Part 16 (String)
+    * [Valid Anagram](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2016/Valid%20Anagram.cpp)
+    * [Count And Say](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2016/Count%20And%20Say.cpp)
+    * [Compare Version Numbers](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2016/Compare%20Version%20Numbers.cpp)
