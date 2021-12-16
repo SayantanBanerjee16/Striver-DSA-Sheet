@@ -19,8 +19,8 @@
 
 // For example
 
-// inorder = [9,3,15,20,7], postorder = [9,15,7,20,3]
-// The last root node is 3. It is in 2nd position in inorder array.
+// postorder = [9,15,7,20,3] inorder = [9,3,15,20,7]
+// The last root node is 3 in postorder array. It is in 2nd position in inorder array.
 // As there are 3 element to right of the root node in inorder array, so the no of nodes in RIGHT subtree will be 3.
 //                                                                  and the no of nodes in LEFT subtree will be 1.
 // So in postorder array, before the last root node, the prev 3 nodes would be preorder traversal for RIGHT subtree,
@@ -28,7 +28,7 @@
 // Thus,
 // root = 3
 // root->left : postorder = [9], inorder = [9]
-// root->right : postorder = [20,15,7], inorder = [15,20,7]
+// root->right : postorder = [15,7,20], inorder = [15,20,7]
 
 class Solution {
 public:
