@@ -155,5 +155,6 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Symmetric Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Symmetric%20Tree.cpp)
     * [Maximum Path Sum Of Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Maximum%20Path%20Sum.cpp)
     * [Invert / Mirror Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Invert%20OR%20Mirror%20a%20Binary%20Tree.cpp)
+    * [Populating next pointer in each node](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Populating%20Next%20Pointer%20in%20each%20node.cpp)
     * [Construct Binary Tree from Preorder and Inorder traversal](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Construct%20Binary%20Tree%20From%20Preorder%20and%20Inorder%20traversal.cpp)
     * [Construct Binary Tree from Postorder and Inorder traversal](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Construct%20Binary%20Tree%20From%20Postorder%20and%20Inorder%20traversal.cpp)
