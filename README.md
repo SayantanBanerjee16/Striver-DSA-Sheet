@@ -8,6 +8,8 @@ All solutions are coded in C++ language.
 My LinkedIn account -> [https://www.linkedin.com/in/sayantan-banerjee-iiitgwalior/](https://www.linkedin.com/in/sayantan-banerjee-iiitgwalior/)
 
 My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.com/tonystark_3000/)
+My Codeforces account -> [https://codeforces.com/profile/tonystark_3000](https://codeforces.com/profile/tonystark_3000)
+My CodeChef account - > [https://www.codechef.com/users/tonystark_3000](https://www.codechef.com/users/tonystark_3000)
 
 * Part 0
     * [Best Time to Buy and Sell - Atmost One Transaction](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%200/Best%20Time%20to%20Buy%20and%20Sell%20-%20One%20Transaction.cpp)
@@ -158,3 +160,11 @@ My Leetcode account -> [https://leetcode.com/tonystark_3000/](https://leetcode.c
     * [Populating next pointer in each node](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Populating%20Next%20Pointer%20in%20each%20node.cpp)
     * [Construct Binary Tree from Preorder and Inorder traversal](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Construct%20Binary%20Tree%20From%20Preorder%20and%20Inorder%20traversal.cpp)
     * [Construct Binary Tree from Postorder and Inorder traversal](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Construct%20Binary%20Tree%20From%20Postorder%20and%20Inorder%20traversal.cpp)
+
+* Part 20 (BST - Binary Search Tree)
+    * [Search in BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/Search%20in%20BST.cpp)
+    * [Validate BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/Validate%20BST.cpp)
+    * [LCA in BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/LCA%20in%20BST.cpp)
+    * [Create BST From Preorder Traversal](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/Create%20BST%20from%20Preorder%20Traversal.cpp)
+    * [Convert Sorted Array to Height Balanced BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/Convert%20Sorted%20Array%20to%20Height%20Balanced%20BST.cpp)
+    * [Inorder Predecessor and Successor of a Node in a BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/Inorder%20Predecessor%20and%20Successor%20of%20a%20Node.cpp)
