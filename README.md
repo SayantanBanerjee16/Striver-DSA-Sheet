@@ -171,3 +171,12 @@ My CodeChef account - > [https://www.codechef.com/users/tonystark_3000](https://
     * [Create BST From Preorder Traversal](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/Create%20BST%20from%20Preorder%20Traversal.cpp)
     * [Convert Sorted Array to Height Balanced BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/Convert%20Sorted%20Array%20to%20Height%20Balanced%20BST.cpp)
     * [Inorder Predecessor and Successor of a Node in a BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2020/Inorder%20Predecessor%20and%20Successor%20of%20a%20Node.cpp)
+
+* Part 21 (BST - Binary Search Tree)
+    * [Ceil In BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Ceil%20in%20BST.cpp)
+    * [Floor In BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Floor%20in%20BST.cpp)
+    * [Kth smallest in BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Kth%20smallest%20element%20in%20BST.cpp)
+    * [Kth largest in BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Kth%20largest%20element%20in%20BST.cpp)
+    * [2 sum in a BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/2%20Sum%20in%20a%20BST.cpp)
+    * [Maximum Sum BST in a Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Maximum%20Sum%20BST%20in%20Binary%20Tree.cpp)
+    * [Serialize and Deserialize Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
