@@ -161,6 +161,7 @@ My CodeChef account - > [https://www.codechef.com/users/tonystark_3000](https://
     * [Maximum Path Sum Of Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Maximum%20Path%20Sum.cpp)
     * [Invert / Mirror Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Invert%20OR%20Mirror%20a%20Binary%20Tree.cpp)
     * [Populating next pointer in each node](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Populating%20Next%20Pointer%20in%20each%20node.cpp)
+    * [Flatten Binary Tree to Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Flatten%20Binary%20Tree%20To%20Linked%20List.cpp)
     * [Construct Binary Tree from Preorder and Inorder traversal](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Construct%20Binary%20Tree%20From%20Preorder%20and%20Inorder%20traversal.cpp)
     * [Construct Binary Tree from Postorder and Inorder traversal](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2019/Construct%20Binary%20Tree%20From%20Postorder%20and%20Inorder%20traversal.cpp)
 
@@ -182,7 +183,6 @@ My CodeChef account - > [https://www.codechef.com/users/tonystark_3000](https://
     * [Serialize and Deserialize Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
 
 * Part 22
-    * [Flatten Binary Tree to Linked List](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2022/Flatten%20Binary%20Tree%20To%20Linked%20List.cpp)
     * [Kth largest element in a Data Stream](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2022/Kth%20largest%20element%20in%20a%20stream.cpp)
     * [Median from Data Stream](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2022/Median%20From%20Data%20Stream.cpp)
     * [Count of Distinct Number of Elements in a Sliding Window](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2022/Count%20of%20Distinct%20Elements%20in%20a%20Window.cpp)
