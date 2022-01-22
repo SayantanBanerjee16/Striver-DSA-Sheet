@@ -46,7 +46,7 @@ public:
     }
 };
 
-// Solution 2 :- T.C. O(N) S.C. O(N)
+// Solution 2 :- T.C. O(N) S.C. O(H)
 
 // USING BST Iterator. Define one forward iterator and another backward iterator. 
 // Then perform 2-sum search over sorted array solution.         

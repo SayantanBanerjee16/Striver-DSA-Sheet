@@ -178,6 +178,7 @@ My CodeChef account - > [https://www.codechef.com/users/tonystark_3000](https://
     * [Floor In BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Floor%20in%20BST.cpp)
     * [Kth smallest in BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Kth%20smallest%20element%20in%20BST.cpp)
     * [Kth largest in BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Kth%20largest%20element%20in%20BST.cpp)
+    * [BST Iterator](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/BST%20Iterator.cpp)
     * [2 sum in a BST](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/2%20Sum%20in%20a%20BST.cpp)
     * [Maximum Sum BST in a Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Maximum%20Sum%20BST%20in%20Binary%20Tree.cpp)
     * [Serialize and Deserialize Binary Tree](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2021/Serialize%20and%20Deserialize%20Binary%20Tree.cpp)
