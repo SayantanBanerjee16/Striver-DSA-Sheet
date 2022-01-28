@@ -36,8 +36,6 @@ void dfsSCC(int node, vector <vector<int>> &reverseAdj, vector<bool> &visitedSCC
     }
 }
 
-public:
-
 int kosaraju(int N, vector<int> adj[]) {
 
     vector <vector<int>> reverseAdj(N);

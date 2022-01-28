@@ -199,7 +199,7 @@ My CodeChef account - > [https://www.codechef.com/users/tonystark_3000](https://
     * [Connected Components in Matrix](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2023/Connected%20Components%20in%20Matrix.cpp)
     * [Clone Graph](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2023/Clone%20Graph.cpp)
 
-* Part 12 (Graphs)
+* Part 24 (Graphs)
     * [Kosaraju Algorithm - Strongly Connected Components](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2024/Kosaraju%20Algorithm%20-%20Strongly%20Connected%20Components.cpp)
     * [Dijkstra Algorithm - Shortest distance from Source haing No Negative Edge Weight](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2024/Dijkstra%20Algorithm%20-%20Shortest%20distance%20from%20Source%20haing%20No%20Negative%20Edge%20Weight.cpp)
     * [Bellman Ford - Shortest distance from Source having Negative Edge Weight but NO Negative Cycle](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2024/Bellman%20Ford%20-%20Shortest%20distance%20from%20Source%20having%20Negative%20Edge%20Weight%20but%20NO%20Negative%20Cycle.cpp)
