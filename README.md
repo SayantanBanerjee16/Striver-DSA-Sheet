@@ -206,3 +206,11 @@ My CodeChef account - > [https://www.codechef.com/users/tonystark_3000](https://
     * [Floyd Warshall - Shortest distance between every pair of nodes](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2024/Floyd%20Warshall%20-%20Shortest%20distance%20between%20every%20pair%20of%20nodes.cpp)
     * [Minimum Spanning Tree - Kruskal - DSU](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2024/Minimum%20Spanning%20Tree%20-%20Kruskal%20-%20DSU.cpp)
     * [Minimum Spanning Tree - Prim](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2024/Minimum%20Spanning%20Tree%20-%20Prim.cpp)
+
+* Part 25 (DP)
+    * [0-1 Knapsack](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/0-1Knapsack.cpp)
+    * [LIS - Longest Increasing Subsequence](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/Longest%20Increasing%20Subsequence.cpp)
+    * [LCS - Longest Common Subsequence](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/Longest%20Common%20Subsequence.cpp)
+    * [Maximum Product Subarray](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/Maximum%20Product%20Subarray.cpp)
+    * [Edit Distance](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/Edit%20Distance.cpp)
+    * [Matrix Chain Multiplication](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/Matrix%20Chain%20Multiplication.cpp)
