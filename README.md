@@ -214,3 +214,8 @@ My CodeChef account - > [https://www.codechef.com/users/tonystark_3000](https://
     * [Maximum Product Subarray](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/Maximum%20Product%20Subarray.cpp)
     * [Edit Distance](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/Edit%20Distance.cpp)
     * [Matrix Chain Multiplication](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2025/Matrix%20Chain%20Multiplication.cpp)
+
+* Part 26 (DP)
+    * [Subset Sum](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2026/Subset%20Sum.cpp)
+    * [Minimum Sum Path](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2026/Minimum%20Sum%20Path.cpp)
+    * [Minimum Cuts to have Palindrome Partitioning - MCM Variation](https://github.com/SayantanBanerjee16/Striver-DSA-Sheet/blob/main/Part%2026/Minimum%20Cuts%20to%20have%20Palindrome%20partitioning.cpp)
